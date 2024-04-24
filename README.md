@@ -36,7 +36,7 @@ skills, helping others to succeed, and solving problems in a creative way.
 
 ![Dicecaster Screenshot](./images/dicecaster.png)
 
-**Dicecaster** is a small npm package I made to roll dice for D&D. built with TypeScript and uses Jest for testing. Dicecaster has all the functionalities needed to roll dice for D&D. It can roll any normal set of polyhedral dice you would use for the game as well as methods for rolling with advantage and disadvantage. It is built with a Test Driven Development approach and the package is published on npm. You can check out the repository
+**Dicecaster** is a small npm package I made to roll dice for D&D. built with TypeScript and uses Jest for testing. It uses husky for pre-commit hooks and TypeDoc for documentation. Dicecaster has all the functionalities needed to roll dice for D&D.  It can roll any normal set of polyhedral dice you would use for the game as well as methods for rolling with advantage and disadvantage. It is built with a Test Driven Development approach and the package is published on npm. You can check out the repository
 [here](https://github.com/tariqtkhawaja/dicecaster) as well as the
 [Documentation](https://tariqtkhawaja.github.io/dicecaster/)
 
