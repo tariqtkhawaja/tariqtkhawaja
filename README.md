@@ -9,7 +9,7 @@ I'm a passionate **Full Stack Software Developer** with experience in
 skills, helping others to succeed, and solving problems in a creative way.
 
 - 🌱 Currently learning: **Next.js, TypeScript, Vite**
-- 🔭 Working on: **Dicecaster**
+- 🔭 Working on: **Toad**
 - 🌍 Languages: **JavaScript, TypeScript**
 - 📫 How to reach me: **tariqkhawaja26@live.com**
 - ⚡ Fun fact: **Outside of coding my hobbies include Brazilian Jiu Jitsu and tabletop roleplaying games.**
